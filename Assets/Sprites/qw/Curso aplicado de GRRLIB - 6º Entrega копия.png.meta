@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: b8f01e79b78623a40b2260674860f3fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6123870527614424192
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_0"
+  - first:
+      213: 424018146208318783
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_1"
+  - first:
+      213: 4901562942838463773
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_2"
+  - first:
+      213: -7288464163208964986
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_3"
+  - first:
+      213: 3620022476398871818
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_4"
+  - first:
+      213: 5676449721385903591
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_5"
+  - first:
+      213: 3329788290094754662
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_6"
+  - first:
+      213: 8824229477873421604
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_7"
+  - first:
+      213: 2056828668323921233
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_8"
+  - first:
+      213: -2099806658588140817
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_9"
+  - first:
+      213: -6345878665693909995
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_10"
+  - first:
+      213: 1974714139541905728
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_11"
+  - first:
+      213: -1831091748111325868
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_12"
+  - first:
+      213: 1810573062412049780
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_13"
+  - first:
+      213: -6229600481481739343
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_14"
+  - first:
+      213: 6316688820600582259
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_15"
+  - first:
+      213: 888210270608552579
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_16"
+  - first:
+      213: 304467289566574388
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_17"
+  - first:
+      213: -5437981519728346376
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_18"
+  - first:
+      213: -7433080342970369741
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_19"
+  - first:
+      213: -6725928399779365370
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_20"
+  - first:
+      213: -5969855901753415954
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_21"
+  - first:
+      213: 6538605799510204687
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_22"
+  - first:
+      213: -4144829022224376493
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_23"
+  - first:
+      213: -5721178835074599164
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_24"
+  - first:
+      213: -715333203995743017
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_25"
+  - first:
+      213: -3445376827483757881
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_26"
+  - first:
+      213: -7215595973691850411
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_27"
+  - first:
+      213: -6553167015047739600
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_28"
+  - first:
+      213: -3071141198810090175
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_29"
+  - first:
+      213: 2799350777770922863
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_30"
+  - first:
+      213: -110335664434407176
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_31"
+  - first:
+      213: -6577054160794951199
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_32"
+  - first:
+      213: -7897852550252489463
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_33"
+  - first:
+      213: -1562145811241759267
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_34"
+  - first:
+      213: -2972874466502031733
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_35"
+  - first:
+      213: -6364436177988222722
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_36"
+  - first:
+      213: -7544940838548453007
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_37"
+  - first:
+      213: 1643249139820574840
+    second: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_38"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_0"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 186
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08411f89ccb5cf450800000000000000
+      internalID: 6123870527614424192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_1"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 254
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f350117e14a62e500800000000000000
+      internalID: 424018146208318783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_2"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dda14e689d50440800000000000000
+      internalID: 4901562942838463773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_3"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684d3c1a57c2ada90800000000000000
+      internalID: -7288464163208964986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_4"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a054fa83347ec3230800000000000000
+      internalID: 3620022476398871818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_5"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 254
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5629c42fcc6ce40800000000000000
+      internalID: 5676449721385903591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_6"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b6a50dec8c53e20800000000000000
+      internalID: 3329788290094754662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_7"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0d2515f5f57a70800000000000000
+      internalID: 8824229477873421604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_8"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 237
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d794bb6c25b8c10800000000000000
+      internalID: 2056828668323921233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_9"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9ad128fcfbd2e0800000000000000
+      internalID: -2099806658588140817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_10"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 237
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ca597b9f8eee7a0800000000000000
+      internalID: -6345878665693909995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_11"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04126542c08976b10800000000000000
+      internalID: 1974714139541905728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_12"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 237
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455eca2b1c7a696e0800000000000000
+      internalID: -1831091748111325868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_13"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d16f08b92702910800000000000000
+      internalID: 1810573062412049780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_14"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3bda03e530c89a0800000000000000
+      internalID: -6229600481481739343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_15"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370349cd30369a750800000000000000
+      internalID: 6316688820600582259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_16"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 203
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f971098e835c00800000000000000
+      internalID: 888210270608552579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_17"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4377750036fa93400800000000000000
+      internalID: 304467289566574388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_18"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faf3759e986884b0800000000000000
+      internalID: -5437981519728346376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_19"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 186
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339ff4a6fc468d890800000000000000
+      internalID: -7433080342970369741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_20"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 186
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e707281c3b8a2a0800000000000000
+      internalID: -6725928399779365370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_21"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6e7bfdfafc62da0800000000000000
+      internalID: -5969855901753415954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_22"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f016d16e45bcdba50800000000000000
+      internalID: 6538605799510204687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_23"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d169be6fb9a76c0800000000000000
+      internalID: -4144829022224376493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_24"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40735ee592a4a90b0800000000000000
+      internalID: -5721178835074599164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_25"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 135
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcaacfad30a216f0800000000000000
+      internalID: -715333203995743017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_26"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 203
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2e770a7009f20d0800000000000000
+      internalID: -3445376827483757881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_27"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551cb5911bd0ddb90800000000000000
+      internalID: -7215595973691850411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_28"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037c54ae1597e05a0800000000000000
+      internalID: -6553167015047739600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_29"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1457bdde95d1165d0800000000000000
+      internalID: -3071141198810090175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_30"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63dfb663ba49d620800000000000000
+      internalID: 2799350777770922863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_31"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 203
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8945b3c42087ef0800000000000000
+      internalID: -110335664434407176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_32"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 186
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1ef45661c99b4a0800000000000000
+      internalID: -6577054160794951199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_33"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90599cd33f0356290800000000000000
+      internalID: -7897852550252489463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_34"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 220
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd029949a4225ae0800000000000000
+      internalID: -1562145811241759267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 460
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8641567c6a3eb6d0800000000000000
+      internalID: -2972874466502031733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_36"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef00e5f240bfca7a0800000000000000
+      internalID: -6364436177988222722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_37"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1794bfa384cfa4790800000000000000
+      internalID: -7544940838548453007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_38"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 69
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878b878e26efdc610800000000000000
+      internalID: 1643249139820574840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_0": 6123870527614424192
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_1": 424018146208318783
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_10": -6345878665693909995
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_11": 1974714139541905728
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_12": -1831091748111325868
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_13": 1810573062412049780
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_14": -6229600481481739343
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_15": 6316688820600582259
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_16": 888210270608552579
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_17": 304467289566574388
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_18": -5437981519728346376
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_19": -7433080342970369741
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_2": 4901562942838463773
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_20": -6725928399779365370
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_21": -5969855901753415954
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_22": 6538605799510204687
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_23": -4144829022224376493
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_24": -5721178835074599164
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_25": -715333203995743017
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_26": -3445376827483757881
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_27": -7215595973691850411
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_28": -6553167015047739600
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_29": -3071141198810090175
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_3": -7288464163208964986
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_30": 2799350777770922863
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_31": -110335664434407176
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_32": -6577054160794951199
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_33": -7897852550252489463
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_34": -1562145811241759267
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_35": -2972874466502031733
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_36": -6364436177988222722
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_37": -7544940838548453007
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_38": 1643249139820574840
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_4": 3620022476398871818
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_5": 5676449721385903591
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_6": 3329788290094754662
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_7": 8824229477873421604
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_8": 2056828668323921233
+      "Curso aplicado de GRRLIB - 6\xBA Entrega \u043A\u043E\u043F\u0438\u044F_9": -2099806658588140817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
