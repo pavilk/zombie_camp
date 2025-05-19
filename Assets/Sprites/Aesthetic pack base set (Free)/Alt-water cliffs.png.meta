@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Alt-water cliffs_0: -6579188568171241965
+      Alt-water cliffs_1: 4170782820628032607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
