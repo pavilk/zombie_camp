@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LockPickCheker : MonoBehaviour
 { 
@@ -7,7 +8,10 @@ public class LockPickCheker : MonoBehaviour
         if (FirstPinScript.Fixed && SecondPinScript.Fixed && ThirdPinScript.Fixed)
         {
             if (FirstPinScript.RightSequence && SecondPinScript.RightSequence && ThirdPinScript.RightSequence)
-                Debug.Log("Успех");
+            {
+                SceneManager.LoadScene(4);
+            }
+
             else
             {
                 FirstPinScript.Reset();

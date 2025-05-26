@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Shelter.unity
     guid: 71f58d7823acc37479982617a2d03eae
+  - enabled: 1
+    path: Assets/Scenes/corridor.unity
+    guid: b34c0f2534982804b820a64eb6430c00
+  - enabled: 1
+    path: Assets/Scenes/lock picking.unity
+    guid: d2c168d1e75745343abaa996bc818899
+  - enabled: 1
+    path: Assets/Scenes/Camp room.unity
+    guid: cc1d1b2f802ff46429ff9d83a410ed2b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

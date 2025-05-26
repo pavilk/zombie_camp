@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Reg tree wall_0: 561506717325112760
+      Reg tree wall_1: 2046585015880160168
+      Reg tree wall_2: -2464042578062445590
+      Reg tree wall_3: 3207584669038408523
+      Reg tree wall_4: 8982527389123909997
+      Reg tree wall_5: 3856214800981570388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
