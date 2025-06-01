@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - BreadEdge
+  - Butter
+  - Bread
+  - Cheese
+  - Kolbasa
   layers:
   - Default
   - TransparentFX
