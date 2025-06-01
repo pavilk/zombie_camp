@@ -4,8 +4,13 @@ using UnityEngine.SceneManagement;
 
 public class SwitchSceneToLockPicking : MonoBehaviour
 {
+    private string triggerName = "ToLockPicking";
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        SceneManager.LoadScene(3);
+        if (!GameData.Triggers.Contains(triggerName))
+        {
+            GameData.Triggers.Add(triggerName);
+            SceneManager.LoadScene(3);
+        }
     }
 }

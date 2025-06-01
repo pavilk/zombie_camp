@@ -8,10 +8,12 @@ public class Player : MonoBehaviour
     [SerializeField] private float movingSpeed = 5f;
     [SerializeField] private DialogueManager dialogueManager;
 
+    private Rigidbody2D body;
+    private float minSpeed = 0.1f;
     private bool isRunning = false;
     private int direction = 0;
-    private float minSpeed = 0.1f;
-    private Rigidbody2D body;
+
+    private GameData gameData;
 
     private void Awake()
     {
@@ -21,14 +23,18 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        ShowIntroDialogue();
+        if (!GameData.introSeen && dialogueManager != null)
+        {
+            ShowIntroDialogue();
+            GameData.introSeen = true;
+        }
     }
 
-    private void FixedUpdate()
+    private void FixedUpdate() 
     {
         HandleMovement();
     }
-
+     
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) && dialogueManager != null)
@@ -54,19 +60,17 @@ public class Player : MonoBehaviour
         isRunning = Mathf.Abs(inputVector.x) > minSpeed || Mathf.Abs(inputVector.y) > minSpeed;
     }
 
-    public int GetDirection() => direction;
-    public bool IsRunning() => isRunning;
-
     private void ShowIntroDialogue()
     {
-        if (dialogueManager == null) return;
-
         var lines = new List<DialogueLine>
         {
-            new DialogueLine { speakerName = "???", sentence = "Где я?.. Что это за место?" },
-            new DialogueLine { speakerName = "???", sentence = "Нужно найти кого-нибудь, кто объяснит, что происходит." }
+            new DialogueLine { speakerName = "Вася", sentence = "Где я?.. Что это за место?" },
+            new DialogueLine { speakerName = "Вася", sentence = "Нужно найти кого-нибудь, кто объяснит, что происходит." }
         };
 
         dialogueManager.StartDialogue(lines);
     }
+
+    public int GetDirection() => direction;
+    public bool IsRunning() => isRunning;
 }
