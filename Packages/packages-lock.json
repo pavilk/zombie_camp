@@ -185,6 +185,8 @@
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
+      "source": "builtin",
+      "dependencies": {}
     },
     "com.unity.feature.2d": {
       "version": "2.0.1",
