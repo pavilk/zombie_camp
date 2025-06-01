@@ -26,8 +26,6 @@ public class Player : MonoBehaviour
     {
         var inputVector = GameInput.Instance.MovementVector.normalized;
         body.MovePosition(body.position + inputVector * (movingSpeed * Time.fixedDeltaTime));
-
-
         
          if (inputVector.y > 0 )
             direction = 3;

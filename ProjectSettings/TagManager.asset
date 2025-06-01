@@ -9,14 +9,15 @@ TagManager:
   - Bread
   - Cheese
   - Kolbasa
+  - otmichka
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Otmichka
   - Water
   - UI
-  - 
+  - Pin stop
   - 
   - 
   - 
