@@ -48,6 +48,13 @@ public class Player : MonoBehaviour
 
     private void HandleMovement()
     {
+        if (DialogueManager.Instance != null && DialogueManager.Instance.IsDialoguePlaying)
+        {
+            body.linearVelocity = Vector2.zero;
+            isRunning = false;
+            return;
+        }
+
         var inputVector = GameInput.Instance.MovementVector.normalized;
         body.MovePosition(body.position + inputVector * (movingSpeed * Time.fixedDeltaTime));
 
@@ -67,8 +74,8 @@ public class Player : MonoBehaviour
     {
         var lines = new List<DialogueLine>
         {
-            new DialogueLine { speakerName = "Вася", sentence = "Где я?.. Что это за место?" },
-            new DialogueLine { speakerName = "Вася", sentence = "Нужно найти кого-нибудь, кто объяснит, что происходит." }
+            new DialogueLine { speakerName = "СЏ", sentence = "РІР°С‚Р°С„Р°Рє" },
+            new DialogueLine { speakerName = "РѕРЅ", sentence = "С‚Р° СЏ С…Р· РІРѕРѕР±С‰Рµ" }
         };
 
         dialogueManager.StartDialogue(lines);
