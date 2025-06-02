@@ -10,8 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5333569668933515841}
   - component: {fileID: 1868105732703359323}
-  - component: {fileID: 3033066670525200907}
-  - component: {fileID: 839986667112727604}
+  - component: {fileID: 5194779010473881578}
   m_Layer: 0
   m_Name: Dungeon_Tiles_46
   m_TagString: Untagged
@@ -80,7 +79,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: 0
   m_Sprite: {fileID: -1887655852, guid: ade6ca657404fe74c9ace9ebd658f654, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -92,7 +91,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 1
---- !u!61 &3033066670525200907
+--- !u!61 &5194779010473881578
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -138,19 +137,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 3}
   m_EdgeRadius: 0
---- !u!114 &839986667112727604
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6922192704532815890}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: NavMeshPlus::NavMeshPlus.Components.NavMeshModifierVolume
-  m_Size: {x: 0.9017868, y: 2.7747688, z: 4}
-  m_Center: {x: 0.005924225, y: -0.037251413, z: 0}
-  m_Area: 1
-  m_AffectedAgents: ffffffff
