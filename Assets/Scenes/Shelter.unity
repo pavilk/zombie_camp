@@ -6937,7 +6937,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8c7866fa68d97e4ca295a953955fea2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Holes
-  newSprite: {fileID: 761415504, guid: 35b486cfb7ef3e84894536a77b7ab657, type: 3}
 --- !u!212 &357929401
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10438,10 +10437,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bd44a44cd62c64fbfc1eea95b24880, type: 3}
   m_Name: 
   m_EditorClassIdentifier: NavMeshPlus::NavMeshPlus.Extensions.CollectSources2d
-  m_OverrideByGrid: 0
-  m_UseMeshPrefab: {fileID: 0}
-  m_CompressBounds: 0
-  m_OverrideVector: {x: 1, y: 1, z: 1}
 --- !u!114 &559627433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10454,25 +10449,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e04976799df50f54ba128eff723155a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: NavMeshPlus::NavMeshPlus.Components.NavMeshSurface
-  m_AgentTypeID: 0
-  m_CollectObjects: 0
-  m_Size: {x: 10, y: 10, z: 10}
-  m_Center: {x: 0, y: 2, z: 0}
-  m_LayerMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_UseGeometry: 0
-  m_DefaultArea: 0
-  m_IgnoreNavMeshAgent: 1
-  m_IgnoreNavMeshObstacle: 1
-  m_OverrideTileSize: 0
-  m_TileSize: 256
-  m_OverrideVoxelSize: 0
-  m_VoxelSize: 0.13333334
-  m_BuildHeightMesh: 0
-  m_MinRegionArea: 0
-  m_HideEditorLogs: 0
-  m_NavMeshData: {fileID: 23800000, guid: 2e42178de3387be478c3e41edeb74fe1, type: 2}
 --- !u!4 &560753462 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5512079480461806632, guid: 21e9517f503193542989d86d7b8d30cf, type: 3}
@@ -20981,7 +20957,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 1
 --- !u!4 &828754966
@@ -21011,7 +20987,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 323c1d0a981df7348a1c676e5e1d8ebf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PushLever
-  newSprite: {fileID: 1466729386495541740, guid: a57ade667e18a424f947638d75cf8b81, type: 3}
 --- !u!61 &828754968
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34392,7 +34367,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad3d0004c8fa2884a805ac6232e69ab7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  newSprite: {fileID: 1144551268, guid: 35b486cfb7ef3e84894536a77b7ab657, type: 3}
 --- !u!212 &1471899636
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -34504,7 +34478,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1, y: 2}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -34753,7 +34727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.2D.Runtime::UnityEngine.Rendering.Universal.Light2D
   m_ComponentVersion: 2
-  m_LightType: 3
+  m_LightType: 4
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -38622,10 +38596,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9809bf1345abc5648af68b3a82653f08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: NavMeshPlus::NavMeshPlus.Components.NavMeshModifier
-  m_OverrideArea: 1
-  m_Area: 0
-  m_IgnoreFromBuild: 0
-  m_AffectedAgents: ffffffff
 --- !u!1001 &1626853258
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39757,7 +39727,7 @@ SpriteRenderer:
   m_Size: {x: 1.125, y: 1.15625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &1716671790
