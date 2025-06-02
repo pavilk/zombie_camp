@@ -20,9 +20,7 @@ public class CityBloxxController : MonoBehaviour
     public float minMoveSpeed = 1.0f;
     public float maxMoveSpeed = 6.0f;
 
-    // --- НОВОЕ: Настройки визуального порядка ---
-    public int floatingBlockOrderOffset = 100; // Насколько выше должен быть падающий блок
-    // --- КОНЕЦ НОВОГО ---
+    public int floatingBlockOrderOffset = 100;
 
     private GameObject currentBlock;
     private float currentMoveSpeed;
@@ -159,14 +157,11 @@ public class CityBloxxController : MonoBehaviour
         UpdateScoreDisplay();
         lastLandedBlock = block;
 
-        // --- НОВОЕ: Устанавливаем Order in Layer для приземлившегося блока ---
         SpriteRenderer landedBlockRenderer = lastLandedBlock.GetComponent<SpriteRenderer>();
         if (landedBlockRenderer != null)
         {
-            // Устанавливаем Order in Layer по счету, чтобы нижние блоки были "под" верхними
             landedBlockRenderer.sortingOrder = score;
         }
-        // --- КОНЕЦ НОВОГО ---
 
         MoveCameraUp();
 
@@ -215,6 +210,8 @@ public class CityBloxxController : MonoBehaviour
         hasWon = true;
         Debug.Log("You Won! Final Score: " + score);
         Time.timeScale = 0f;
+        GameData.HadLastPaper = true;
+        SceneManager.LoadScene(5);
     }
 
     IEnumerator RestartGameAfterDelay(float delay)
@@ -238,14 +235,11 @@ public class CityBloxxController : MonoBehaviour
 
         currentBlock = Instantiate(blockPrefab, spawnPosition, Quaternion.identity);
 
-        // --- НОВОЕ: Устанавливаем Order in Layer для падающего блока ---
         SpriteRenderer currentBlockRenderer = currentBlock.GetComponent<SpriteRenderer>();
         if (currentBlockRenderer != null)
         {
-            // Падающий блок всегда рисуется поверх всех уже уложенных
             currentBlockRenderer.sortingOrder = score + floatingBlockOrderOffset;
         }
-        // --- КОНЕЦ НОВОГО ---
 
         currentMoveSpeed = Random.Range(minMoveSpeed, maxMoveSpeed);
         movingRight = (Random.value > 0.5f);

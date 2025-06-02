@@ -32,11 +32,11 @@ public class Player : MonoBehaviour
         }
     }
 
-    private void FixedUpdate() 
+    private void FixedUpdate()
     {
         HandleMovement();
     }
-     
+
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) && DialogueManager.Instance.IsDialoguePlaying)
@@ -70,12 +70,18 @@ public class Player : MonoBehaviour
         isRunning = Mathf.Abs(inputVector.x) > minSpeed || Mathf.Abs(inputVector.y) > minSpeed;
     }
 
+
     private void ShowIntroDialogue()
     {
         var lines = new List<DialogueLine>
         {
+<<<<<<< Updated upstream
             new DialogueLine { speakerName = "СЏ", sentence = "РІР°С‚Р°С„Р°Рє" },
             new DialogueLine { speakerName = "РѕРЅ", sentence = "С‚Р° СЏ С…Р· РІРѕРѕР±С‰Рµ" }
+=======
+            new DialogueLine { speakerName = "Вася", sentence = "Да куда все делись? Словно сквозь землю провалились." },
+            new DialogueLine { speakerName = "Вася", sentence = "А стоп.. Вроде кто-то стоит на площади - пойду проверю." }
+>>>>>>> Stashed changes
         };
 
         dialogueManager.StartDialogue(lines);

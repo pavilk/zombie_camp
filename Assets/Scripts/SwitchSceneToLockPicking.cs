@@ -1,6 +1,7 @@
 using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections.Generic;
 
 public class SwitchSceneToLockPicking : MonoBehaviour
 {
@@ -9,8 +10,10 @@ public class SwitchSceneToLockPicking : MonoBehaviour
     {
         if (!GameData.Triggers.Contains(triggerName))
         {
+            
             GameData.Triggers.Add(triggerName);
             SceneManager.LoadScene(3);
         }
     }
+
 }

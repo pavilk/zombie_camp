@@ -89,7 +89,7 @@ public class DialogueManager : MonoBehaviour
         if (typingCoroutine != null)
             StopCoroutine(typingCoroutine);
 
-        typingCoroutine = StartCoroutine(TypeSentence(line.sentence));
+        typingCoroutine = StartCoroutine(TypeSentence(line.speakerName + ": " + line.sentence));
     }
 
     IEnumerator TypeSentence(string sentence)
