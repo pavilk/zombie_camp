@@ -55,6 +55,12 @@ public class Player : MonoBehaviour
             return;
         }
 
+        if (GameInput.Instance == null)
+        {
+            body.linearVelocity = Vector2.zero;
+            return;
+        }
+
         var inputVector = GameInput.Instance.MovementVector.normalized;
         body.MovePosition(body.position + inputVector * (movingSpeed * Time.fixedDeltaTime));
 
@@ -69,6 +75,7 @@ public class Player : MonoBehaviour
 
         isRunning = Mathf.Abs(inputVector.x) > minSpeed || Mathf.Abs(inputVector.y) > minSpeed;
     }
+
 
 
     private void ShowIntroDialogue()

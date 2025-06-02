@@ -168,6 +168,8 @@ public class CityBloxxController : MonoBehaviour
         if (score >= 9)
         {
             GameWon();
+            GameData.SpawnPosition = new Vector3(32, -6, 0);
+            SceneManager.LoadScene(5);
             return;
         }
 
@@ -207,11 +209,11 @@ public class CityBloxxController : MonoBehaviour
 
     void GameWon()
     {
+        GameData.HadLastPaper = true;
         hasWon = true;
         Debug.Log("You Won! Final Score: " + score);
         Time.timeScale = 0f;
-        GameData.HadLastPaper = true;
-        SceneManager.LoadScene(5);
+        
     }
 
     IEnumerator RestartGameAfterDelay(float delay)

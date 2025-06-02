@@ -26,9 +26,9 @@ public class PushLever : MonoBehaviour
                 var dialogueManager = DialogueManager.Instance;
                 var lines = new List<DialogueLine>
             {
-                new DialogueLine { speakerName = "Вася", sentence = "Так, бумажку я возьму. О рычаг!" },
-                new DialogueLine { speakerName = "Вася", sentence = "Видимо, нужно просто подойти и ооочень близко посмотреть на него." },
-                new DialogueLine { speakerName = "Вася", sentence = "Так, тут такой же пионер, только уже зеленый... надо быть тише." }
+                new DialogueLine { speakerName = "ЗОМБЭ", sentence = "УЭУЭУЭУЭУЭ" },
+                new DialogueLine { speakerName = "", sentence = "" },
+                new DialogueLine { speakerName = "Вася", sentence = "ААААА ОПЯТЬ ЗОМБЭ" }
             };
 
                 dialogueManager.StartDialogue(lines);

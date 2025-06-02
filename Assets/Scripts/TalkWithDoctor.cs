@@ -24,7 +24,7 @@ public class TalkWithDoctor : MonoBehaviour
             dialogueManager.StartDialogue(lines);
         }
 
-        else if (!PushLever.CanPush)
+        else if (!PushLever.CanPush && SwitchToCoridor.CanGoBack)
         {
             var lines = new List<DialogueLine>
             {
