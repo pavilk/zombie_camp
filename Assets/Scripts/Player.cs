@@ -77,8 +77,13 @@ public class Player : MonoBehaviour
         {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             new DialogueLine { speakerName = "СЏ", sentence = "РІР°С‚Р°С„Р°Рє" },
             new DialogueLine { speakerName = "РѕРЅ", sentence = "С‚Р° СЏ С…Р· РІРѕРѕР±С‰Рµ" }
+=======
+            new DialogueLine { speakerName = "Вася", sentence = "Да куда все делись? Словно сквозь землю провалились." },
+            new DialogueLine { speakerName = "Вася", sentence = "А стоп.. Вроде кто-то стоит на площади - пойду проверю." }
+>>>>>>> Stashed changes
 =======
             new DialogueLine { speakerName = "Вася", sentence = "Да куда все делись? Словно сквозь землю провалились." },
             new DialogueLine { speakerName = "Вася", sentence = "А стоп.. Вроде кто-то стоит на площади - пойду проверю." }
