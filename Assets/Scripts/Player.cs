@@ -19,6 +19,8 @@ public class Player : MonoBehaviour
     {
         Instance = this;
         body = GetComponent<Rigidbody2D>();
+        if (GameData.SpawnPosition != new Vector3(0, 0, 0))
+            Instance.transform.position = GameData.SpawnPosition;
     }
 
     private void Start()
@@ -37,10 +39,11 @@ public class Player : MonoBehaviour
      
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && dialogueManager != null)
+        if (Input.GetKeyDown(KeyCode.Space) && DialogueManager.Instance.IsDialoguePlaying)
         {
-            dialogueManager.DisplayNextLine();
+            DialogueManager.Instance.DisplayNextLine();
         }
+
     }
 
     private void HandleMovement()

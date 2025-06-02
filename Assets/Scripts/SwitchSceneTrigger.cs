@@ -6,6 +6,7 @@ public class SwitchSceneTrigger : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        SceneManager.LoadScene(1);
+        if (!GameData.Triggers.Contains("Shelter"))
+            SceneManager.LoadScene(1);
     }
 }

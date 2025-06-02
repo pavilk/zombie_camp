@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem.Android;
 
 public class SpriteTransparencyOnTrigger : MonoBehaviour
 {
@@ -21,7 +22,10 @@ public class SpriteTransparencyOnTrigger : MonoBehaviour
     {
         if (spriteRenderer != null)
         {
+            if (SwitchToCoridor.CanGoBack)
+                PushLever.CanPush = true;
             SwitchToCoridor.CanGoBack = true;
+
             Color c = originalColor;
             c.a = transparentAlpha;
             spriteRenderer.color = c;
