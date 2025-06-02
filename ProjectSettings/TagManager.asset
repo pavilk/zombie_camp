@@ -10,6 +10,8 @@ TagManager:
   - Cheese
   - Kolbasa
   - otmichka
+  - Platform
+  - Block
   layers:
   - Default
   - TransparentFX
