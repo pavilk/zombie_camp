@@ -11,6 +11,11 @@ public class CompassArrowController : MonoBehaviour
 
     private Vector2 lastValidDirection;
 
+    public void SetTarget(Transform newTarget)
+    {
+        target = newTarget;
+    }
+
     private void Update()
     {
         if (player == null || target == null || arrow == null)

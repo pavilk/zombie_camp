@@ -3,6 +3,10 @@ using System.Collections.Generic;
 
 public class TalkWithDoctor : MonoBehaviour
 {
+    public Transform FirstTarget;
+    public Transform SecondTarget;
+    public Transform ThirdTarget;
+    public CompassArrowController compass;
 
     private void OnTriggerEnter2D(Collider2D other){
 
@@ -22,6 +26,7 @@ public class TalkWithDoctor : MonoBehaviour
             };
 
             dialogueManager.StartDialogue(lines);
+            compass.SetTarget(FirstTarget);
         }
 
         else if (!PushLever.CanPush && SwitchToCoridor.CanGoBack)
@@ -42,6 +47,7 @@ public class TalkWithDoctor : MonoBehaviour
             };
 
             dialogueManager.StartDialogue(lines);
+            compass.SetTarget(SecondTarget);
         }
         else
         {
@@ -54,6 +60,7 @@ public class TalkWithDoctor : MonoBehaviour
             };
 
             dialogueManager.StartDialogue(lines);
+            compass.SetTarget(ThirdTarget);
         }
         if (GameData.HadLastPaper)
         {
